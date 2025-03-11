@@ -1,0 +1,13 @@
+{
+  "description": "RescyFood Project",
+  "domain": "is-a.dev",
+  "subdomain": "rescyfood",
+  "owner": {
+    "repo": "https://github.com/sian30/rescyfood",
+    "email": "manandegramil@gmail.com"
+  },
+  "record": {
+    "CNAME": "rescyfood.github.io"
+  },
+  "proxied": false
+}
